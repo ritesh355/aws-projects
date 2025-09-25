@@ -66,9 +66,6 @@ This project helps you learn how to create a public bucket, upload files, enable
 1. Go to **Permissions → Bucket Policy**.  
 2. Paste the following policy, replacing `YOUR-BUCKET-NAME`:
 
-3. ![File Upload](images/policy.png)
-
-
 ```json
 {
   "Version": "2012-10-17",
@@ -82,7 +79,21 @@ This project helps you learn how to create a public bucket, upload files, enable
     }
   ]
 }
+```
+---
+
+3. ![File Upload](images/policy.png)
 
 
+
+
+## Access Your Website
+
+ Go to Properties → Static website hosting → Bucket website endpoint.
+
+ Open the URL in a browser:
+3. ![File Upload](images/link.png)
+
+ 
 
 

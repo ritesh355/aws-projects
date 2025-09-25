@@ -14,13 +14,9 @@ Learn how to create, configure, and use an Amazon S3 bucket for storage.
 
 ## 📋 Steps
 
-### 1. Go to **AWS Console → S3 → Create Bucket**.
+### 1. Go to **AWS Console → S3**.
 ![Alt Text](assets/s3.png)
-
-
-
-
-3. Select a **region** close to you.  
+ 
 4. Disable **Block all public access** if you want public website access (for testing).  
 5. Click **Create Bucket**.
 
@@ -33,4 +29,9 @@ Learn how to create, configure, and use an Amazon S3 bucket for storage.
 ### 3.Provide a **unique bucket name** (e.g., `ritesh355`).
 ![Alt Text](assets/name.png)
 
+---
+
+### 3.Scroll down add click on create button
+
+![Alt Text](assets/clickcreate.png)
 

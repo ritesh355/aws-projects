@@ -50,13 +50,15 @@ This project helps you learn how to create a public bucket, upload files, enable
 1. Go to **Properties → Static website hosting → Edit**.
 ![File Upload](images/property.png)
 
-   
+**scroll down**
+   ![File Upload](images/edit.png)
+
 2. Select **Enable**.  
 3. Enter **Index document**: `index.html`  
 4. (Optional) **Error document**: `error.html`
  ![File Upload](images/index.png)
 
-5. Save changes.  
+6. Save changes.  
 
 **Screenshot: Static Website Hosting Enabled**  
 ![Static Website Hosting](images/static-website-hosting.png)

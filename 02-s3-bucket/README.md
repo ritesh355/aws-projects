@@ -34,5 +34,10 @@ Understand features like **bucket policies, versioning, encryption, and lifecycl
 ---
 6. Now bucket is created
   ![Static Website Hosting](assets/2025-09-25_14-27.png)
+
+## 📢 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)  
+- 📝 [Hashnode Blog](https://ritesh-devops.hashnode.dev)  
+- 💻 [GitHub](https://github.com/ritesh355)
    
    

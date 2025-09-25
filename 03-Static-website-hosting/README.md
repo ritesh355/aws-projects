@@ -15,11 +15,10 @@ This project helps you learn how to create a public bucket, upload files, enable
 ## 📋 Steps with Screenshots
 
 ### 1. Create an S3 Bucket
-1. Go to **AWS Console → S3 → Create Bucket**.  
-2. Give a **unique bucket name** (e.g., `my-static-website`).  
-3. Select your **region**.  
-4. Uncheck **Block all public access**.  
-5. Click **Create Bucket**.  
+1. Go to **AWS Console → S3
+2. Give a **unique bucket name** (e.g., `my-static-website`).
+  ![Bucket Creation](images/name.png)
+
 
 **Screenshot: Bucket Creation**  
 ![Bucket Creation](images/bucket-creation.png)

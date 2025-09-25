@@ -82,7 +82,7 @@ This project helps you learn how to create a public bucket, upload files, enable
 ```
 ---
 
-3. ![File Upload](images/policy.png)
+ ![File Upload](images/policy.png)
 
 
 
@@ -98,6 +98,8 @@ This project helps you learn how to create a public bucket, upload files, enable
 ## copy that link and paste your browser 
 
  ![File Upload](images/output.png)
+
+ ## ✅ AUTHOR
 
  
 

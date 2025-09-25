@@ -1,4 +1,4 @@
-# Project 1: Launch an EC2 Instance
+<img width="1830" height="932" alt="copycommand" src="https://github.com/user-attachments/assets/fa9e9ac1-dc0a-458a-9f70-a125655c63c4" /><img width="1830" height="932" alt="copycommand" src="https://github.com/user-attachments/assets/d5ff09a4-2523-4457-9095-18139ae81c62" /># Project 1: Launch an EC2 Instance
 
 ## 🎯 Objective
 Learn how to launch, configure, and connect to an Amazon EC2 instance.  
@@ -52,17 +52,16 @@ This project will give you hands-on experience with AWS compute services and bas
          ![Bucket Creation](images/connect.png)
 
 2. click on **sshclient**
-       
-```bash
-   chmod 400 mykey.pem
+      ![Bucket Creation](images/ssh.png)
+ 
  3. open you **laptop terminal** and set correct permissions for key:
     **note**-> make sure your key is in same directly
 
-    ```bash
+ ```bash
    chmod 400 awskey.pem
-```
+  ```
 ---
-![Bucket Creation](images/coppycommand.png)
+![Bucket Creation](images/copycommand.png)
 
 
  ![Bucket Creation](images/ec2connect.png)

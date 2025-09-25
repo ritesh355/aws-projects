@@ -26,10 +26,11 @@ Learn how to create, configure, and use an Amazon S3 bucket for storage.
 
 ---
 
-### 2. Provide a **unique bucket name** (e.g., `ritesh355`).  
+### 2. Click on create button.  
 ![Alt Text](assets/create.png)
 
-
-### 3.
+---
+### 3.Provide a **unique bucket name** (e.g., `ritesh355`).
+![Alt Text](assets/name.png)
 
 

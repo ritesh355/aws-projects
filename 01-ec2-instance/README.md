@@ -26,19 +26,23 @@ This project will give you hands-on experience with AWS compute services and bas
 ![Bucket Creation](images/name.png)   
 ---
 3. Choose **Amazon Linux 2 AMI (Free Tier Eligible)**.
+4.  4. Select instance type: **t2.micro** (Free Tier).
+
    ![Bucket Creation](images/name.png)   
 ---
-4. Select instance type: **t2.micro** (Free Tier).
    
 5. Create a new **Key Pair** →
       ![Bucket Creation](images/key.png)   
 ---
-6. write the key pair name according to you
+6. write the **key pair** name according to you
          ![Bucket Creation](images/keyname.png)   
 
 8. Configure **Security Group**:
    - Allow **SSH (22)** from My IP
    - (Optional) Allow **HTTP (80)** for web access
+      ![Bucket Creation](images/launch2.png)   
+
+     
 9. Launch instance.
 
 ---

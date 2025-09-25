@@ -20,7 +20,7 @@ This project helps you learn how to create a public bucket, upload files, enable
   ![Bucket Creation](images/name.png)
 
 3. Uncheck **Block all public access**.  
-  ![Bucket Creation](ack/name.png)
+  ![Bucket Creation](images/ack.png)
 
 
 ---

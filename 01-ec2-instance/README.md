@@ -48,7 +48,16 @@ This project will give you hands-on experience with AWS compute services and bas
 ---
 
 ### 3. Connect to Instance
-1. Open terminal and set correct permissions for key:
-   ```bash
-   chmod 400 mykey.pem
+1. go to the **ec2 server and connet**
+         ![Bucket Creation](images/connect.png)
+
+2. click on **sshclient**
+       
+      ![Bucket Creation](images/ssh.png)
+
+ 3. open you **laptop terminal** and set correct permissions for key:
+    **note**-> make sure your key is in same directly
+    
+    
+
 

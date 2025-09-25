@@ -20,8 +20,8 @@ Each project comes with:
 
 ### 🔰 Beginner (Fundamentals)
 1. [EC2 Instance Setup](01-ec2-instance)  
-2. [S3 Bucket – Static Website Hosting](02-s3-bucket)  
-3. [IAM Users, Groups & Roles](03-iam-users-roles)  
+2. [S3 Bucket ](02-s3-bucket)  
+3. [Static Website Hosting](03-Static-website-hosting)  
 
 ### ⚡ Intermediate (Networking + Databases)
 4. [VPC with Public & Private Subnets](04-vpc-subnets)  

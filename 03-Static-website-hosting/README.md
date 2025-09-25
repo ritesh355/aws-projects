@@ -19,9 +19,9 @@ This project helps you learn how to create a public bucket, upload files, enable
 2. Give a **unique bucket name** (e.g., `my-static-website`).
   ![Bucket Creation](images/name.png)
 
+3. Uncheck **Block all public access**.  
+  ![Bucket Creation](ack/name.png)
 
-**Screenshot: Bucket Creation**  
-![Bucket Creation](images/bucket-creation.png)
 
 ---
 

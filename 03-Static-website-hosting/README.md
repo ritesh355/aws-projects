@@ -22,7 +22,11 @@ This project helps you learn how to create a public bucket, upload files, enable
 3. Uncheck **Block all public access**.  
   ![Bucket Creation](images/ack.png)
 
+4.  Click **Create Bucket**.
+   after clicking bucket is created
+  ![Bucket Creation](images/d.png)
 
+   
 ---
 
 ### 2. Upload Website Files

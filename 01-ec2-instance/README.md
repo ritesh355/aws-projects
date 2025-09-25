@@ -53,15 +53,20 @@ This project will give you hands-on experience with AWS compute services and bas
 
 2. click on **sshclient**
        
-      ![Bucket Creation](images/ssh.png)
-
+```bash
+   chmod 400 mykey.pem
  3. open you **laptop terminal** and set correct permissions for key:
     **note**-> make sure your key is in same directly
 
     ```bash
    chmod 400 awskey.pem
-    ```
-    ---
-    
+```
+---
+![Bucket Creation](images/coppycommand.png)
+
+
+ ![Bucket Creation](images/ec2connect.png)
+
+
 
 

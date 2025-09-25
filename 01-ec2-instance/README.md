@@ -81,7 +81,7 @@ This project will give you hands-on experience with AWS compute services and bas
 sudo yum install -y httpd
 ```
 ---
- ![Bucket Creation](images/yup.png)
+ ![Bucket Creation](images/yum.png)
 
 
 **Start service:**

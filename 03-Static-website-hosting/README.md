@@ -32,15 +32,12 @@ This project helps you learn how to create a public bucket, upload files, enable
 
 ---
 
-   
----
-
 ### 2. Upload Website Files
 1. Open your bucket → **Upload**.  
 2. Upload `index.html` and other website files (CSS, JS, images).  
 
 **Screenshot: File Upload**  
-![File Upload](images/file-upload.png)
+![File Upload](images/up.png)
 
 ---
 

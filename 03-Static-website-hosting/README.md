@@ -38,8 +38,10 @@ This project helps you learn how to create a public bucket, upload files, enable
 **Screenshot: File Upload**  
 ![File Upload](images/up.png)
 
+---
+
 2. Upload `index.html` and other website files (CSS, JS, images).  
-![File Upload](images/uplod.png)
+![File Upload](images/oplod.png)
 
 
 ---

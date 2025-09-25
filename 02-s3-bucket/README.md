@@ -31,7 +31,12 @@ Learn how to create, configure, and use an Amazon S3 bucket for storage.
 
 ---
 
-### 3.Scroll down add click on create button
+### 3.Scroll down add click on create button (make everything is default )
 
-![Alt Text](assets/clickcreate.png)
+![Alt Text](assets/clickoncreate.png)
+
+### 4. your bucket is created 
+![Alt Text](assets/2025-09-25_14-27.png)
+
+
 

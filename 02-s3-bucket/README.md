@@ -19,18 +19,20 @@ Understand features like **bucket policies, versioning, encryption, and lifecycl
 ### 1. Create an S3 Bucket
 1. Go to **AWS Console s3**
  ![Static Website Hosting](assets/s3.png)
-2. click on **create**
-    ![Static Website Hosting](assets/create.png)
-
-4. Provide a **unique bucket name** (e.g., `my-aws-project-bucket`).  
- ![Static Website Hosting](assets/name.png)  
-6. Click **Create Bucket**.
 
 ---
+3. click on **create**
+    ![Static Website Hosting](assets/create.png)
 
-### 2. Upload Files to S3
-- Upload any files (HTML, text, images) to your bucket via console.  
-- OR via AWS CLI:
-```bash
-aws s3 cp myfile.txt s3://my-aws-project-bucket/
+   ---
 
+4. Provide a **unique bucket name** (e.g., `my-aws-project-bucket`).  
+ ![Static Website Hosting](assets/name.png)
+---
+5. Click **Create Bucket**
+  ![Static Website Hosting](assets/clickoncreate.png)
+---
+6. Now bucket is created
+  ![Static Website Hosting](assets/2025-09-25_14-27.png)
+   
+   

@@ -15,7 +15,7 @@ This project helps you learn how to create a public bucket, upload files, enable
 ## 📋 Steps with Screenshots
 
 ### 1. Create an S3 Bucket
-1. Go to **AWS Console → S3
+1. Go to **AWS Console → S3**
 2. Give a **unique bucket name** (e.g., `my-static-website`). in my case when i use this name it is allready that why i change this with ritess355
   ![Bucket Creation](images/name.png)
 
@@ -92,7 +92,12 @@ This project helps you learn how to create a public bucket, upload files, enable
  Go to Properties → Static website hosting → Bucket website endpoint.
 
  Open the URL in a browser:
-3. ![File Upload](images/link.png)
+ ![File Upload](images/link.png)
+
+---
+## copy that link and paste your browser 
+
+ ![File Upload](images/output.png)
 
  
 

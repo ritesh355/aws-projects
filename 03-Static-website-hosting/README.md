@@ -27,7 +27,7 @@ This project helps you learn how to create a public bucket, upload files, enable
 ---
 
 6.  Click **Create Bucket**.
-   after clicking bucket is created
+   after clicking bucket is created like this
   ![Bucket Creation](images/d.png)
 
 ---

@@ -17,9 +17,12 @@ Understand features like **bucket policies, versioning, encryption, and lifecycl
 ## 📋 Steps
 
 ### 1. Create an S3 Bucket
-1. Go to **AWS Console → S3 → Create Bucket**.
+1. Go to **AWS Console s3**
  ![Static Website Hosting](assets/s3.png)
-2. Provide a **unique bucket name** (e.g., `my-aws-project-bucket`).  
+2. click on **create**
+    ![Static Website Hosting](assets/create.png)
+
+4. Provide a **unique bucket name** (e.g., `my-aws-project-bucket`).  
  ![Static Website Hosting](assets/name.png)  
 6. Click **Create Bucket**.
 

@@ -1,4 +1,4 @@
-<img width="1830" height="932" alt="copycommand" src="https://github.com/user-attachments/assets/fa9e9ac1-dc0a-458a-9f70-a125655c63c4" /><img width="1830" height="932" alt="copycommand" src="https://github.com/user-attachments/assets/d5ff09a4-2523-4457-9095-18139ae81c62" /># Project 1: Launch an EC2 Instance
+# Project 1: Launch an EC2 Instance
 
 ## 🎯 Objective
 Learn how to launch, configure, and connect to an Amazon EC2 instance.  

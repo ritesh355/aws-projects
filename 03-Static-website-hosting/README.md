@@ -60,14 +60,14 @@ This project helps you learn how to create a public bucket, upload files, enable
 
 6. Save changes.  
 
-**Screenshot: Static Website Hosting Enabled**  
-![Static Website Hosting](images/static-website-hosting.png)
-
 ---
 
 ### 4. Add Bucket Policy (Make Website Public)
 1. Go to **Permissions → Bucket Policy**.  
 2. Paste the following policy, replacing `YOUR-BUCKET-NAME`:
+
+3. ![File Upload](images/policy.png)
+
 
 ```json
 {
@@ -82,4 +82,7 @@ This project helps you learn how to create a public bucket, upload files, enable
     }
   ]
 }
+
+
+
 

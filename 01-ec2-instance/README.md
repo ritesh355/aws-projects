@@ -67,5 +67,41 @@ This project will give you hands-on experience with AWS compute services and bas
  ![Bucket Creation](images/ec2connect.png)
 
 
+---
+
+## 4. Install Apache and Host a Web Page
+ **Update packages:**
+
+ ```bash
+ sudo yum update -y
+```
+
+**Install Apache:**
+```bash
+sudo yum install -y httpd
+```
+---
+ ![Bucket Creation](images/yup.png)
+
+
+**Start service:**
+```bash
+sudo systemctl start httpd
+sudo systemctl enable httpd
+```
+**Create index.html:**
+ ``` bash
+echo "Hello from my EC2 instance 🚀" | sudo tee /var/www/html/index.html
+```
+
+ ![Bucket Creation](images/live.png)
+
+**Open browser → http://<EC2-Public-IP> → You should see your page.**
+
+ ![Bucket Creation](images/output.png)
+
+
+
+
 
 

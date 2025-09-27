@@ -101,6 +101,14 @@ echo "Hello from my EC2 instance 🚀" | sudo tee /var/www/html/index.html
  ![Bucket Creation](images/output.png)
 
 
+ ---
+ ## 📢 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)  
+- 📝 [Hashnode Blog](https://ritesh-devops.hashnode.dev)  
+- 💻 [GitHub](https://github.com/ritesh355)
+   
+
+
 
 
 

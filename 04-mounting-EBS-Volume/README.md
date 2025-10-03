@@ -15,14 +15,15 @@ Learn how to **attach, mount, and use an EBS volume** with an EC2 instance for p
 ## 📋 Steps
 
 ### 1. Create an EBS Volume
-1. Go to **AWS Console → EC2 → Elastic Block Store → Volumes → Create Volume**  
-2. Choose **Volume type** (e.g., General Purpose SSD `gp3`)  
-3. Set **Size** (e.g., 1 GB for testing)  
-4. Select the **same Availability Zone** as your EC2 instance  
-5. Click **Create Volume**  
+1. Go to **AWS Console → EC2 → Elastic Block Store → Volumes → Create Volume**
+2. ![Create EBS Volume](https://cdn.hashnode.com/res/hashnode/image/upload/v1759417635503/4bf40ca5-547c-4cea-a239-ad112c5a5369.png?auto=compress,format&format=webp)
+
+3. Choose **Volume type** (e.g., General Purpose SSD `gp3`)  
+4. Set **Size** (e.g., 1 GB for testing)  
+5. Select the **same Availability Zone** as your EC2 instance  
+6. Click **Create Volume**  
 
 **Screenshot: Create EBS Volume**  
-![Create EBS Volume](images/create-ebs.png)
 
 ---
 

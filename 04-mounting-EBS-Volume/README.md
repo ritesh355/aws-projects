@@ -68,22 +68,22 @@ sudo mkfs -t ext4 /dev/nvme1n1
 ### 4. Mount the Volume
 
 
-    Create a mount point:
+Create a mount point:
+
     ```
     sudo mkdir /mnt/myvolume
     ```
    
-    Mount it:
+ Mount it:
+ 
     ```
     sudo mount /dev/nvme1n1 /mnt/myvolume
+    
     ```
-    Verify
+ Verify
 
     ```
     df -h 
-    ``` 
-    or 
-    ``` 
     lsblk
     ```
     

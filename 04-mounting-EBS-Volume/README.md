@@ -80,10 +80,10 @@ Create a mount point:
  
  Verify
 
-    ```
+    
     df -h 
     lsblk
-    ```
+    
     
     
 

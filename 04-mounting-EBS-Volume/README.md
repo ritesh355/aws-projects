@@ -65,21 +65,19 @@ If output shows data, format it:
 sudo mkfs -t ext4 /dev/nvme1n1
 ```
 ***Note —> replace with your disk name like /dev/xvdf in my case it is not xvdf it is nvme1n1***
+
 ### 4. Mount the Volume
 
 
 Create a mount point:
 
-    ```
     sudo mkdir /mnt/myvolume
-    ```
+  
    
  Mount it:
  
-    ```
     sudo mount /dev/nvme1n1 /mnt/myvolume
-    
-    ```
+ 
  Verify
 
     ```

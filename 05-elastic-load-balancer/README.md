@@ -148,6 +148,7 @@ You should see:
   - Port: 80
 
   - Default Action: Forward to web-target-group
+  - ![workflow](images/load3.png)
 
 8. Click Create Load Balancer
 
@@ -163,6 +164,11 @@ You should see:
 ```
 http://my-app-load-balancer-123456789.elb.amazonaws.com
 ```
+  - ![workflow](images/out2.png)
+  - 
+  - ![workflow](images/out1.png)
+
+
 🔁 Refresh multiple times —
 You should see responses alternating between:
 

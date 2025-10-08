@@ -1,4 +1,4 @@
-![workflow](/images/workflow.png)
+![workflow](images/workflow.png)
 # 🧪 AWS LAB — Application Load Balancer (ALB)
 ## 🎯 Goal
  Deploy a highly available web app using:
@@ -17,7 +17,7 @@
 ## 🪜 Step-by-Step Guide
 ### Step 1️⃣ – Launch 2 EC2 Instances
 1. Go to EC2 Console → Launch Instances
-   ![workflow](/images/ec21.png)
+   ![workflow](images/ec21.png)
 
 3. Name them:
   - web-server-1

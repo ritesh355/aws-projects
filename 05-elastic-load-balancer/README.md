@@ -35,7 +35,7 @@
 
   - **Subnets**:
   - web-server-1 → subnet in us-east-1a
-  -   ![workflow](/images/ec22.png)
+  -   ![workflow](images/ec22.png)
 
   - web-server-2 → subnet in us-east-1b  
 5. Enable Auto-assign Public IP
@@ -47,13 +47,13 @@
   - HTTP (port 80)
 
   - SSH (port 22)
-  - ![workflow](/images/ec2-3.png)
+  - ![workflow](images/ec2-3.png)
 
 7. Launch with an existing key pair.
   
 ### Step 2️⃣ – Launch 2 EC2 Instances
 SSH into both instances: 
-  - ![workflow](/images/ec2-4.png)
+  - ![workflow](images/ec2-4.png)
 
 **For web-server-1:**
 ```
@@ -63,7 +63,7 @@ echo "<h1>Welcome to Web Server 1 - $(hostname)</h1>" > /var/www/html/index.html
 systemctl start httpd
 systemctl enable httpd
 ```
-  - ![workflow](/images/ec2-5.png)
+  - ![workflow](images/ec2-5.png)
 
 **For web-server-2:**
 ```
@@ -80,8 +80,8 @@ http://<public-ip-of-web-server-1>
 http://<public-ip-of-web-server-2>
 ```
 You should see:
-  - ![workflow](/images/ec2-6.png)
-  -   - ![workflow](/images/ec2-7.png)
+  - ![workflow](images/ec2-6.png)
+  -   - ![workflow](images/ec2-7.png)
 
 
 
@@ -89,7 +89,7 @@ You should see:
 
 ### Step3️⃣  – Launch 2 EC2 Instances
 1. Go to EC2 → Target Groups → Create Target Group
-  -   - ![workflow](/images/tar1.png)
+  -   - ![workflow](images/tar1.png)
 
 2. Choose:
 
@@ -100,7 +100,7 @@ You should see:
   - Port: 80
 
 3. Give it a name: web-target-group
-  -   - ![workflow](/images/tar2.png)
+  -   - ![workflow](images/tar2.png)
 
 4. VPC: default
 
@@ -113,18 +113,18 @@ You should see:
 6. Click Next
 
 7. Register both EC2 instances (web-server-1 and web-server-2)
-  - ![workflow](/images/tar3.png)
+  - ![workflow](images/tar3.png)
 
 8. Click Create Target Group
-  - ![workflow](/images/tar4.png)
+  - ![workflow](images/tar4.png)
 
 ---
 ###Step 4️⃣ – Create Application Load Balancer (ALB)
 1. Go to EC2 → Load Balancers → Create Load Balancer
-  - ![workflow](/images/load1.png)
+  - ![workflow](images/load1.png)
 
 2. Choose Application Load Balancer
-  - ![workflow](/images/load2.png)
+  - ![workflow](images/load2.png)
 
 3. Name: my-app-load-balancer
 4. Scheme: Internet-facing

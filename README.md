@@ -32,7 +32,9 @@ Each project comes with:
    ---
 5. [Elastic load Balancer](05-elastic-load-balancer)
     ![](images/workflow.png)
-   
+---
+6. [Docker-jenkin-app](06-deploying-application-using-jenkin)
+   ![](images/docker-jenkin.png)
    
 
 ### ⚡  (Networking + Databases)

@@ -24,7 +24,7 @@ Each project comes with:
 2. [S3 Bucket ](02-s3-bucket)  
 3. [Static Website Hosting](03-Static-website-hosting)
    ![](images/529b90a1-b20b-401d-be2c-37e59fb02df5.jpg)
-4. [Mounting EBS volume]
+4. [Mounting EBS volume](04-mounting-EBS-Volume)
    ![](images/image.jpg.jpg)  
 
 ### ⚡ Intermediate (Networking + Databases)

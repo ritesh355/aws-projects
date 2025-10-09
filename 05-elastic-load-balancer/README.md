@@ -1,5 +1,6 @@
+## AWS LAB — Application Load Balancer (ALB)
 ![workflow](images/workflow.png)
-# 🧪 AWS LAB — Application Load Balancer (ALB)
+
 ## 🎯 Goal
  Deploy a highly available web app using:
 

@@ -18,21 +18,29 @@ Each project comes with:
 
 ## 📌 Projects Roadmap  
 
-### 🔰 Beginner (Fundamentals)
+### 🔰  (Fundamentals)
 1. [EC2 Instance Setup](01-ec2-instance)  
 
 2. [S3 Bucket ](02-s3-bucket)  
 3. [Static Website Hosting](03-Static-website-hosting)
    ![](images/529b90a1-b20b-401d-be2c-37e59fb02df5.jpg)
-4. [Mounting EBS volume](04-mounting-EBS-Volume)
-   ![](images/image.jpg.jpg)  
 
-### ⚡ Intermediate (Networking + Databases)
+   ---
+4. [Mounting EBS volume](04-mounting-EBS-Volume)
+   ![](images/image.jpg.jpg)
+
+   ---
+5. [Elastic load Balancer](05-elastic-load-balancer)
+    ![](images/workflow.png)
+   
+   
+
+### ⚡  (Networking + Databases)
 4. [VPC with Public & Private Subnets](04-vpc-subnets)  
 5. [NAT Gateway Setup](05-nat-gateway)  
 6. [RDS Database Deployment](06-rds-database)  
 
-### 🚀 Advanced (Scaling + Serverless + DevOps)
+### 🚀  (Scaling + Serverless + DevOps)
 7. [Elastic Load Balancer + Auto Scaling](07-elb-auto-scaling)  
 8. [CloudFront as CDN](08-cloudfront-cdn)  
 9. [Serverless with Lambda](09-lambda-functions)  

@@ -20,9 +20,12 @@ Each project comes with:
 
 ### 🔰 Beginner (Fundamentals)
 1. [EC2 Instance Setup](01-ec2-instance)  
-![](images/ec2.instacce.jpg)
+
 2. [S3 Bucket ](02-s3-bucket)  
-3. [Static Website Hosting](03-Static-website-hosting)  
+3. [Static Website Hosting](03-Static-website-hosting)
+   ![](images/529b90a1-b20b-401d-be2c-37e59fb02df5.jpg)
+4. [Mounting EBS volume]
+   ![](images/image.jpg.jpg)  
 
 ### ⚡ Intermediate (Networking + Databases)
 4. [VPC with Public & Private Subnets](04-vpc-subnets)  

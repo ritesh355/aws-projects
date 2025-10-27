@@ -36,7 +36,8 @@ Each project comes with:
 6. [Docker-jenkin-app](06-deploying-application-using-jenkin)
    ![](images/docker-jenkin.png)
 
-8. [AWS CICD with CodeBuild,CodeDeploy and AWS-Pipeline]![](images/final.png)     
+8. [AWS CICD with CodeBuild,CodeDeploy and AWS-Pipeline](08-cicd-with-awspipeline)
+   ![](images/final.png)     
 
 ---
 

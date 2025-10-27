@@ -35,18 +35,8 @@ Each project comes with:
 ---
 6. [Docker-jenkin-app](06-deploying-application-using-jenkin)
    ![](images/docker-jenkin.png)
-   
 
-### ⚡  (Networking + Databases)
-4. [VPC with Public & Private Subnets](04-vpc-subnets)  
-5. [NAT Gateway Setup](05-nat-gateway)  
-6. [RDS Database Deployment](06-rds-database)  
-
-### 🚀  (Scaling + Serverless + DevOps)
-7. [Elastic Load Balancer + Auto Scaling](07-elb-auto-scaling)  
-8. [CloudFront as CDN](08-cloudfront-cdn)  
-9. [Serverless with Lambda](09-lambda-functions)  
-10. [CI/CD with AWS CodePipeline](10-ci-cd-codepipeline)  
+8. [AWS CICD with CodeBuild,CodeDeploy and AWS-Pipeline]()     
 
 ---
 

@@ -76,6 +76,7 @@ Click **Create database** 🟢
   | Type          | Protocol | Port | Source           |
   |---------------|---------|------|-----------------|
   | MySQL/Aurora  | TCP     | 3306 | EC2 security group (`ec2-sg`) |
+  |SSH            | TCP     |22 | enboundrule|
 
 > This allows the EC2 instance to connect to RDS.
 

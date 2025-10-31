@@ -106,12 +106,20 @@ sudo apt update
 ```bash
 sudo apt install mysql-client -y
 ```
+   ![](images/ssh3.png)
+
+
+
 3. Connect to your RDS instance:
 ```bash
 mysql -h <RDS-ENDPOINT> -u admin -p
 ```
 - Replace <RDS-ENDPOINT> with your RDS endpoint
+-    ![](images/endpoint.png)
+
 - Enter the password you created
+-    ![](images/final.png)
+
 
 ## 🧾 Step 10: Verify Database
 Run SQL commands:

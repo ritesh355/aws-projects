@@ -87,4 +87,27 @@ Click **Create database** 🟢
 1. Update packages:
 ```bash
 sudo apt update
+```
+2. Install MySQL client:
+```bash
+sudo apt install mysql-client -y
+```
+3. Connect to your RDS instance:
+```bash
+mysql -h <RDS-ENDPOINT> -u admin -p
+```
+- Replace <RDS-ENDPOINT> with your RDS endpoint
+- Enter the password you created
 
+## 🧾 Step 10: Verify Database
+Run SQL commands:
+```bash
+SHOW DATABASES;
+USE devops_lab;
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50)
+);
+INSERT INTO users (name) VALUES ('Ritesh'), ('DevOps');
+SELECT * FROM users;
+```

@@ -171,7 +171,7 @@ SELECT * FROM users;
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/rds-flask-app.git
+git clone https://github.com/ritesh355/rds-flask-app.git
 cd rds-flask-app
 ```
 ![](images/clone1.png)

@@ -21,27 +21,47 @@ Each project comes with:
 ### 🔰  (Fundamentals)
 1. [EC2 Instance Setup](01-ec2-instance)
   ![](images/ec2.png) 
+---
 
 2. [S3 Bucket ](02-s3-bucket)
-  ![](images/s3.png) 
+  ![](images/s3.png)
+---
+
 3. [Static Website Hosting](03-Static-website-hosting)
    ![](images/529b90a1-b20b-401d-be2c-37e59fb02df5.jpg)
 
    ---
-6. [Mounting EBS volume](04-mounting-EBS-Volume)
+4. [Mounting EBS volume](04-mounting-EBS-Volume)
    ![](images/image.jpg.jpg)
 
    ---
-7. [Elastic load Balancer](05-elastic-load-balancer)
+5. [Elastic load Balancer](05-elastic-load-balancer)
     ![](images/workflow.png)
 ---
 6. [Docker-jenkin-app](06-deploying-application-using-jenkin)
    ![](images/docker-jenkin.png)
 
+---
+7. [IAM](07-iam-user)
+   ![](images/iam.png)
+
+   ---
 8. [AWS CICD with CodeBuild,CodeDeploy and AWS-Pipeline](08-cicd-with-awspipeline)
    ![](images/final.png)     
 
 ---
+9. [AWS-RDS](09-AWS-RDS)
+---
+10.  [AWS-RDS-FLASK-APP](10-aws-rds-flask-project)
+![](images/10.png)
+
+---
+11. [static-website-hosting-using-s3-and-cloudfront](11-static-website-hosting-s3-cloudfront)
+![](images/12.png)
+
+12. [aws-dynamodb-flask-app](12-aws-dynamodb-flask-app)
+    ![](images/11.png)
+
 
 ## 🎯 Learning Goals
 - Gain **hands-on AWS experience**  

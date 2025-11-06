@@ -24,7 +24,7 @@ Each project comes with:
 ---
 
 2. [S3 Bucket ](02-s3-bucket)
-  ![](images/s33.png)
+  ![](images/s33.jpg)
 
 ---
 

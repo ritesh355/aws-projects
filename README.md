@@ -24,7 +24,8 @@ Each project comes with:
 ---
 
 2. [S3 Bucket ](02-s3-bucket)
-  ![](images/s3.png)
+  ![](images/s33.png)
+
 ---
 
 3. [Static Website Hosting](03-Static-website-hosting)
@@ -57,8 +58,8 @@ Each project comes with:
 
 ---
 11. [static-website-hosting-using-s3-and-cloudfront](11-static-website-hosting-s3-cloudfront)
-![](images/12.png)
-
+![](images/flow.png)
+---
 12. [aws-dynamodb-flask-app](12-aws-dynamodb-flask-app)
     ![](images/11.png)
 

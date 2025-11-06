@@ -19,18 +19,20 @@ Each project comes with:
 ## 📌 Projects Roadmap  
 
 ### 🔰  (Fundamentals)
-1. [EC2 Instance Setup](01-ec2-instance) ![](images/ec2.png) 
+1. [EC2 Instance Setup](01-ec2-instance)
+  ![](images/ec2.png) 
 
-2. [S3 Bucket ](02-s3-bucket) ![](images/s3.png) 
+2. [S3 Bucket ](02-s3-bucket)
+  ![](images/s3.png) 
 3. [Static Website Hosting](03-Static-website-hosting)
    ![](images/529b90a1-b20b-401d-be2c-37e59fb02df5.jpg)
 
    ---
-4. [Mounting EBS volume](04-mounting-EBS-Volume)
+6. [Mounting EBS volume](04-mounting-EBS-Volume)
    ![](images/image.jpg.jpg)
 
    ---
-5. [Elastic load Balancer](05-elastic-load-balancer)
+7. [Elastic load Balancer](05-elastic-load-balancer)
     ![](images/workflow.png)
 ---
 6. [Docker-jenkin-app](06-deploying-application-using-jenkin)

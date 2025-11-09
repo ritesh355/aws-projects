@@ -54,7 +54,7 @@ Each project comes with:
 9. [AWS-RDS](09-AWS-RDS)
 ---
 10.  [AWS-RDS-FLASK-APP](10-aws-rds-flask-project)
-![](images/10.png)
+
 
 ---
 11. [static-website-hosting-using-s3-and-cloudfront](11-static-website-hosting-s3-cloudfront)

@@ -63,6 +63,9 @@ Each project comes with:
 12. [aws-dynamodb-flask-app](12-aws-dynamodb-flask-app)
     ![](images/11.png)
 
+---
+13. [Serverless CI/CD Pipeline using AWS Lambda](13-serverless-ci-cd-demo)
+14. ![](images/chipka.png)
 
 ## 🎯 Learning Goals
 - Gain **hands-on AWS experience**  
